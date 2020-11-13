@@ -18,6 +18,22 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 ## Índice de recursos
 (WIP)
 
+- [APIs]()
+- [Bases de Datos]()
+- [Generadores de contenido (texto/imágenes/datos)]()
+- [Diseño UX/UI]()
+- [Editores / IDEs]()
+- [Hosting para aplicaciones]()
+- [Hosting para páginas estáticas]()
+- [Lenguajes de programación]()
+- [Media]()
+  - [Fuentes]()
+  - [Iconos]()
+  - [Imágenes]()
+  - [Ilustraciones]()
+  - [Fotos]()
+
+
 
 
 
