@@ -91,25 +91,29 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 
 #### Media
 - Fuentes
-	- fontawesome. com (Iconos para tu web)
+	- fontawesome.com (Iconos para tu web)
 	- onlinewebfonts.com (Fuentes e iconos gratis)
+	- fonts.google.com (Fuentes gratuitas descargables o para uso directamente desde tu web).
 - Iconos
 	- simpleicons.org (Iconos para tu web)
 	- tablericons.com (1000 iconos SVG gratis)
+	- flaticon.com (Iconos gratis para tu web en formato PNG/SVG/EPS/PSD).
 - Imágenes
-	- squoosh.app (Comprimir y comparar imágenes)
+	- squoosh.app (Comprimir imagenes sin perder calidad)
 
 - Ilustraciones
 	- freepik.com (Ilustraciones y Fotos)
 	- vectr.com (Edita gráficos vectoriales online)
+	- undraw.co (Ilustraciones de calidad gratuitas en PNG/SVG).
 
 - Fotos
 	- picsum.photos (El Lorem Ipsum de las fotos)
+	- unsplash.com (imágenes gratis para descarga manual o vía API).
 
-#### Recursos
+#### Otros Recursos
 - freecodecamp.org (Cursos de calidad gratis)
 - awesome-python.com (Listado de los mejores recursos de #Python)
 - free-for.dev (SW SaaS, PaaS, IaaS para desarrolladores)
 - regex101.com (Test y debug de expr. regulares)
-
+- webscreenshot.now.sh (Captura screenshots de cualquier web o tweet).
 
