@@ -76,12 +76,14 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 	- codetogo.io (JavaScript snippets para problemas típicos)
 - Optimización/Análisis
 	- Google LightHouse (Herramientas para medir y mejorar la calidad de tu web)
+- Otros recursos de Frontend
+	- frontendchecklist.io (Checklist de comprobaciones que debes hacer antes de publicar tu aplicación web)
 
 #### Hosting
 - netlify.com (Hosting muy potente y gratuito)
 - vercel.com (Hosting gratuito)
 - heroku.com (Mucho más que un hosting para tus apps)
-- firebase.google. com (Hosting y servicios cloud)
+- firebase.google.com (Hosting y servicios cloud)
 
 #### Ofertas de empleo
 - remoteok.io (Ofertas de trabajo en remoto)
