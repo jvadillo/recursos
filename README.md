@@ -119,4 +119,5 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 - free-for.dev (SW SaaS, PaaS, IaaS para desarrolladores)
 - regex101.com (Test y debug de expr. regulares)
 - webscreenshot.now.sh (Captura screenshots de cualquier web o tweet).
+- gitignore.io (Generador automático de archivos ".gitignore")
 
