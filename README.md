@@ -56,6 +56,8 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 - free-css.com (Plantillas CSS)
 - flexboxdefense.com (Aprende flexbox jugando)
 - tooplate.com (Plantillas HTML y CSS gratis)
+- tailwind-kit.com (Componentes para Tailwind CSS gratis).
+- tailwindcomponents.com (Repositorio gratuito de omponentes para Tailwind CSS).
 
 #### Diseño UX/UI
 - mockuper.net (Generador de mockpus)
