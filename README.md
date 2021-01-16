@@ -71,21 +71,33 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 - codetogo.io (JavaScript snippets para problemas típicos)
 
 #### CSS
-- cssreference.io (Guía visual de CSS)
-- gridbyexample.com (Aprende CSS Grid)
-- free-css.com (Plantillas CSS)
-- flexboxdefense.com (Aprende flexbox jugando)
-- tooplate.com (Plantillas HTML y CSS gratis)
-- tailwind-kit.com (Componentes para Tailwind CSS gratis).
-- tailwindcomponents.com (Repositorio gratuito de omponentes para Tailwind CSS).
+- Apendizaje y guías
+	- cssreference.io (Guía visual de CSS)
+	- gridbyexample.com (Aprende CSS Grid)
+	- flexboxdefense.com (Aprende flexbox jugando)
+- Plantillas
+	- free-css.com (Plantillas CSS)
+	- tailwind-kit.com (Componentes para Tailwind CSS gratis).
+	- tailwindcomponents.com (Repositorio gratuito de omponentes para Tailwind CSS).
+	- tailblocks.cc (Bloques de Tailwind listos para utilizar).
+	- tooplate.com (Plantillas HTML y CSS gratis)
 
 #### Diseño UX/UI
-- mockuper.net (Generador de mockpus)
-- figma.com (Diseño UI de forma colaborativa)
-- sidebar.io (Recursos de diseño)
-- photopea.com (Editor de fotos online)
-- uidesigndaily.com (Recursos en diseño de UI)
-- fluidui.com (Diseño de prototipos)
+- Herramientas y recursos
+	- photopea.com (Editor de fotos online)
+	- sidebar.io (Recursos de diseño)
+	- vectr.com (Editor de gráficos gratuito y multiplataforma).
+- Prototipado
+	- fluidui.com (Diseño de prototipos)
+	- figma.com (Diseño UI de forma colaborativa)
+- Mockups
+	- mockuper.net (Generador de mockpus)
+- Tendencias & Inspiración
+	- uidesigndaily.com (Recursos en diseño de UI)
+	- awwwards.com (Premios anuales a los mejores diseños en varias categorías).
+	- uigarage.net (Repositorio de diseños de aplicaciones web y móviles para utilizar como inspiración).
+	- screenlane.com (Directorio con los mejores diseños de aplicaciones web y móviles de productos reales).
+
 
 #### Editores / IDEs
 - jsfiddle.net (Playground para editar y compartir código)
