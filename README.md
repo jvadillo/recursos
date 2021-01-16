@@ -35,6 +35,22 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 
 ### TODO
 
+#### Aprendizaje
+- Plataformas
+	- freecodecamp.org (Cursos de calidad gratis)
+	- sololearn.com (Cursos gratuitos que combinan la teoría con la práctica - learn by doing).
+	- es.khanacademy.org (Organización sin Ánimo de Lucro que ofrece educación gratuita de todo tipo.).
+	- codecademy.com (Una de las más conocidas. Tiene buenos cursos gratuitos y también planes de pago.).
+	- w3schools.com (Destacan por tener gran cantidad de ejemplos y tutoriales, no es necesario realizar un curso completo si no que permite ir de forma directa a la parte que te interesa.).
+	- egghead.io (Tutoriales  en formato screencast, cortos y concisos elaborados por expertos de la industria).
+	- guides.github.com (Guías útiles para utilizar GIT y GitHub).
+	- es.coursera.org (Plataforma de educación virtual en la que Universidades de todo el planeta ofrecen sus cursos. En muchas ocasiones el contenido es gratuito y solo pagas si deseas obtener el certificado) 
+- Comunidades
+- Blogs
+- Noticias
+	- Hacker News
+
+
 #### APIs
 - jsonplaceholder.typicode.com (API gratuita para testing)
 - public-apis.io (Directorio de APIs públicas)
@@ -116,11 +132,11 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 	- unsplash.com (imágenes gratis para descarga manual o vía API).
 
 #### Otros Recursos
-- freecodecamp.org (Cursos de calidad gratis)
+
 - awesome-python.com (Listado de los mejores recursos de #Python)
 - free-for.dev (SW SaaS, PaaS, IaaS para desarrolladores)
 - regex101.com (Test y debug de expr. regulares)
 - webscreenshot.now.sh (Captura screenshots de cualquier web o tweet).
 - gitignore.io (Generador automático de archivos ".gitignore")
-- guides.github.com (Guías útiles para utilizar GIT y GitHub).
+
 
