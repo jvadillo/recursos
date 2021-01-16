@@ -45,6 +45,7 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 	- egghead.io (Tutoriales  en formato screencast, cortos y concisos elaborados por expertos de la industria).
 	- guides.github.com (Guías útiles para utilizar GIT y GitHub).
 	- es.coursera.org (Plataforma de educación virtual en la que Universidades de todo el planeta ofrecen sus cursos. En muchas ocasiones el contenido es gratuito y solo pagas si deseas obtener el certificado) 
+	- udemy.com (Contiene cursos grauitos y de pago publicados por terceros)
 - Comunidades
 - Blogs
 - Noticias
