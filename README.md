@@ -48,6 +48,7 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 	- udemy.com (Contiene cursos grauitos y de pago publicados por terceros)
 - Coding challenges
 	- codewars.com (aprende mediante coding challenges)
+	- exercism.io (ejercicios para practicar, disponibles en 52 lenguajes diferentes)
 	- hackerrank.com
 	- adventofcode.com
 	- projecteuler.net
