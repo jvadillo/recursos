@@ -46,6 +46,11 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 	- guides.github.com (Guías útiles para utilizar GIT y GitHub).
 	- es.coursera.org (Plataforma de educación virtual en la que Universidades de todo el planeta ofrecen sus cursos. En muchas ocasiones el contenido es gratuito y solo pagas si deseas obtener el certificado) 
 	- udemy.com (Contiene cursos grauitos y de pago publicados por terceros)
+- Coding challenges
+	- codewars.com (aprende mediante coding challenges)
+	- hackerrank.com
+	- adventofcode.com
+	- projecteuler.net
 - Comunidades
 - Blogs
 - Noticias
@@ -57,9 +62,6 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 - public-apis.io (Directorio de APIs públicas)
 - picsum.photos (El Lorem Ipsum de las fotos)
 - fakejson. com (Crea Fake APIs para tus pruebas) 
-
-#### Coding Challenges
-- codewars.com (aprende mediante coding challenges)
 
 #### Code Snippets
 - devsamples.com (Códigos de ejemplo (#JavaScript, #React, #CSS, ...)
