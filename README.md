@@ -69,6 +69,7 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 - shortcode.dev (Cheatsheets de todo tipo)
 - carbon.now.sh (Genera imágenes para compartir tu código)
 - codetogo.io (JavaScript snippets para problemas típicos)
+- 30secondsofcode.org (Códigos que siempre vienen bien en cualquier tipo de desarrollo).
 
 #### CSS
 - Apendizaje y guías
@@ -81,6 +82,7 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 	- tailwindcomponents.com (Repositorio gratuito de omponentes para Tailwind CSS).
 	- tailblocks.cc (Bloques de Tailwind listos para utilizar).
 	- tooplate.com (Plantillas HTML y CSS gratis)
+	- https://emilkowalski.github.io/css-effects-snippets/ (efectos CSS listos para usar)
 
 #### Diseño UX/UI
 - Herramientas y recursos
@@ -104,6 +106,7 @@ Puedes contribuir haciendo un pull request con la nueva versión del README que 
 - codepen.io (Editor HTML+JS+CSS online, permite compartir código fácilmente)
 - stackblitz.com (Online IDE con gran potencial: rápida creación de apps Angular/React/Svelte/Vue/etc, consola, npm, ...).
 - codeshare.io (Comparte código con otras personas en tiempo real directamente desde el navegador)
+- pastebin.com (Comparte código con cualquier y de forma rápida)
 
 #### Frontend
 - JavaScript
